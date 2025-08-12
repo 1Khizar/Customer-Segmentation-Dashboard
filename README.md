@@ -41,7 +41,7 @@ pip install -r requirements.txt
 - customer_segments.csv — Output data with customer segments
 
 ## Author
-Created by **Khizar Ishtiaq**
-Linkedin: linkedin.com/in/khizar-ishtiaq-716518315
+- Created by **Khizar Ishtiaq**
+- Linkedin: linkedin.com/in/khizar-ishtiaq-716518315
 
 
