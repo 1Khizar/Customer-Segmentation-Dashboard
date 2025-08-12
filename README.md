@@ -9,6 +9,11 @@ This project is a Customer Segmentation Dashboard built using Python and Streaml
 - Data preprocessing and scaling
 - Model integration with saved clustering models
 
+## About This Project
+
+This is an unsupervised learning project I developed to practice clustering algorithms and build an interactive customer segmentation dashboard using Python and Streamlit. It demonstrates how to analyze customer data and group similar customers to better understand their behavior.
+
+
 ## Technologies Used
 
 - Python
