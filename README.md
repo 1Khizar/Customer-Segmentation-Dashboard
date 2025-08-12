@@ -36,9 +36,15 @@ pip install -r requirements.txt
 
 - kmeans_model.joblib — Pretrained clustering model
 
-- scaler.joblib — Data scaler
+- scaler.joblib — For Data scaling
 
 - customer_segments.csv — Output data with customer segments
+
+ ## Deployment
+
+The app is deployed and live at:  
+[Customer Segmentation Dashboard](https://customer-segmentation-dashboard-99uyemka2rdyalwje2hem9.streamlit.app/)
+
 
 ## Author
 - Created by **Khizar Ishtiaq**
